@@ -1,4 +1,4 @@
-# Hi, I'm Alexander 👋
+# Hi, I'm Alexandr 👋
 
 Junior developer from Moscow region. Software engineering master's student at RTU MIREA.
 
